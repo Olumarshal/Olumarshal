@@ -11,7 +11,7 @@ I'm a Software Engineer, who is currently a student at AltSchool Africa [School 
 - 🌱 I’m currently learning JavaScript, React, and NodeJs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing olmarsh.192@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1i0jEBD2JMBFlCpAMH3vd8aLcxQ_xpaeq/view?usp=sharing) and contact me by emailing olmarsh.192@gmail.com.
 
 ---
 
