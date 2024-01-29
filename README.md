@@ -7,8 +7,8 @@ I'm a Software Engineer, who is currently a student at AltSchool Africa [School 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, React, and NodeJs.
+- 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I have experience working with JavaScript, NodeJs and TypeScript. I'm currently learning Docker, Containers and Kubernetes.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1i0jEBD2JMBFlCpAMH3vd8aLcxQ_xpaeq/view?usp=sharing) and contact me by emailing olmarsh.192@gmail.com.
